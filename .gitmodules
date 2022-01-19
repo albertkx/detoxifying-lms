@@ -1,0 +1,12 @@
+[submodule "PPLM"]
+	path = PPLM
+	url = https://github.com/albertkx/PPLM.git
+[submodule "GeDi"]
+	path = GeDi
+	url = https://github.com/albertkx/GeDi.git
+[submodule "apex"]
+	path = apex
+	url = https://github.com/NVIDIA/apex.git
+[submodule "transformers2"]
+	path = transformers2
+	url = https://github.com/albertkx/transformers2.git

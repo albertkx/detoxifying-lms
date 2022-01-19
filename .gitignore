@@ -1,0 +1,7 @@
+plots/
+checkpoints/
+logs/
+generations/
+runs/
+scripts/human-evals/
+data/
